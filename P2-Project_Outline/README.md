@@ -27,5 +27,5 @@ https://trello.com/b/yme4SNAj/pam
 ## Login Page
 ![alt text][img1]
 
-[img1]: https://raw.githubusercontent.com/kjswenso/planily-capstone/master/wireframes/View1.jpg "Wireframe View 1"
-P2-Project_Outline/Login.png
+[img1]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Login.png "Login Page"
+
