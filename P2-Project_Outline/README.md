@@ -24,4 +24,4 @@ one get to view summery table of billerlist with payment details and graphical r
 https://trello.com/b/yme4SNAj/pam
 
 ### Wireframes
-Login.png
+
