@@ -25,4 +25,7 @@ https://trello.com/b/yme4SNAj/pam
 
 ### Wireframes
 ## Login Page
+![alt text][img1]
 
+[img1]: https://raw.githubusercontent.com/kjswenso/planily-capstone/master/wireframes/View1.jpg "Wireframe View 1"
+P2-Project_Outline/Login.png
