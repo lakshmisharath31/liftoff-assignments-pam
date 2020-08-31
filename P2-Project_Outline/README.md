@@ -1,4 +1,4 @@
-# Personal account manager
+# Personal Accounts Manager
 
 ### Overview
 Managing personal account against bill payment may be a tough job for a busy person, so that to keep payment deadline on track to avoid late fee payment.
@@ -22,3 +22,6 @@ one get to view summery table of billerlist with payment details and graphical r
 
 ### Project Tracker
 https://trello.com/b/yme4SNAj/pam
+
+### Wireframes
+Login.png
