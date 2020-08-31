@@ -32,3 +32,7 @@ https://trello.com/b/yme4SNAj/pam
 ![alt text][img2]
 
 [img2]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/homePage.png "Home Page"
+## Account Setup Page
+![alt text][img3]
+
+[img3]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountSetupPage.png "Account Setup Page"
