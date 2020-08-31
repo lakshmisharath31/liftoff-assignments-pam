@@ -45,17 +45,11 @@ https://trello.com/b/yme4SNAj/pam
 
 [img4]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Bills.png "Bills"
 
-
-![alt text][img5]
-
-[img5]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountsOverview.png "Accounts Overview Page"
-
-
 ## Account Setup Page
-![alt text][img4]
-
-[img4]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountSetupPage.png "Account Setup Page"
-## Accounts Overview Page
 ![alt text][img5]
 
-[img5]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountsOverview.png "Accounts Overview Page"
+[img5]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountSetupPage.png "Account Setup Page"
+## Accounts Overview Page
+![alt text][img6]
+
+[img6]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountsOverview.png "Accounts Overview Page"
