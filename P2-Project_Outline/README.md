@@ -25,6 +25,8 @@ https://trello.com/b/yme4SNAj/pam
 
 ### Wireframes
 ## Login Page
+![alt text][img1]
 [img1]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Login.png "Login Page"
 ## Home Page
+![alt text][img2]
 [img2]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/homePage.png "Home Page"
