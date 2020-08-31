@@ -45,10 +45,10 @@ https://trello.com/b/yme4SNAj/pam
 
 [img4]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Bills.png "Bills"
 
-## Account Setup Page
+## Add-Bill Page
 ![alt text][img5]
 
-[img5]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountSetupPage.png "Account Setup Page"
+[img5]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountSetupPage.png "Add-Bill Page"
 ## Accounts Overview Page
 ![alt text][img6]
 
