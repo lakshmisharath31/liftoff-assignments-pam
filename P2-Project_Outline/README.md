@@ -24,19 +24,24 @@ one get to view summery table of billerlist with payment details and graphical r
 https://trello.com/b/yme4SNAj/pam
 
 ### Wireframes
-## Login Page
+## SignUp page
 ![alt text][img1]
 
-[img1]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Login.png "Login Page"
-## Home Page
+[img1]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/SignUp-page.png "SignUp page"
+ 
+## Login Page
 ![alt text][img2]
 
-[img2]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/homePage.png "Home Page"
-## Account Setup Page
+[img2]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Login.png "Login Page"
+## Home Page
 ![alt text][img3]
 
-[img3]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountSetupPage.png "Account Setup Page"
-## Accounts Overview Page
+[img3]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/homePage.png "Home Page"
+## Account Setup Page
 ![alt text][img4]
 
-[img4]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountsOverview.png "Accounts Overview Page"
+[img4]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountSetupPage.png "Account Setup Page"
+## Accounts Overview Page
+![alt text][img5]
+
+[img5]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AccountsOverview.png "Accounts Overview Page"
