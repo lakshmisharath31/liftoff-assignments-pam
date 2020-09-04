@@ -48,7 +48,7 @@ https://trello.com/b/yme4SNAj/pam
 ## Add new-bill 
 ![alt text][img5]
 
-[img5]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/AddNewBill.png "Add new-bill "
+[img5]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/newBill1.png "Add new-bill "
 ## Payment-Type
 ![alt text][img6]
 
