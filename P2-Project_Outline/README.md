@@ -53,7 +53,7 @@ https://trello.com/b/yme4SNAj/pam
 ## Payment-Type
 ![alt text][img6]
 
-[img6]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/PaymentTypeC.png "Payment-Type"
+[img6]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/PaymentTypeCC.png "Payment-Type"
 
 ## Payment-Type
 ![alt text][img7]
