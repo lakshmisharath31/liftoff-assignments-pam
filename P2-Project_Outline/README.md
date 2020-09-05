@@ -49,7 +49,13 @@ https://trello.com/b/yme4SNAj/pam
 ![alt text][img5]
 
 [img5]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/newBill1.png "Add new-bill "
+
 ## Payment-Type
 ![alt text][img6]
 
-[img6]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/PaymentType.png "Payment-Type"
+[img6]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/PaymentTypeC.png "Payment-Type"
+
+## Payment-Type
+![alt text][img7]
+
+[img7]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/PaymentType.png "Payment-Type"
