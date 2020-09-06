@@ -43,7 +43,7 @@ https://trello.com/b/yme4SNAj/pam
 ## Bills
 ![alt text][img4]
 
-[img4]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Bills_01.png "Bills"
+[img4]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Bills_02.png "Bills"
 
 ## Add new-bill 
 ![alt text][img5]
