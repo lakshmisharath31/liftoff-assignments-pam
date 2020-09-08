@@ -68,4 +68,4 @@ https://trello.com/b/yme4SNAj/pam
 ## Alerts
 ![alt text][img9]
 
-[img9]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/PaymentType.png "Alerts"
+[img9]: https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Alerts.png "Alerts"
