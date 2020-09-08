@@ -17,10 +17,11 @@ For this assignment, you'll create some initial plans for your project.
   <li><a href="https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/PaymentTypeSelect.png ">Payment-Type</a></li>
   <li><a href=" https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/PaymentTypeCC.png">Payment-Type</a></li>
   <li><a href="https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_OutlinePaymentTypeBA.png ">Payment-Type</a></li>
-  <li><a href="https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Alerts1.png ">Alerts</a></li>  
- 
+  <li><a href="https://github.com/lakshmisharath31/liftoff-assignments-pam/blob/master/P2-Project_Outline/Alerts1.png ">Alerts</a></li>   
 </ul>
+
 ### Project Tracker
+
 https://trello.com/b/yme4SNAj/pam
 
 
